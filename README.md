@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @juju199a in Seoul.
+- 👀 I’m interested in Java and Python Programming.
+- 🌱 I’m currently learning AI and Azure.
+- 💞️ I’m looking to collaborate on AI Application.
+- 📫 I worked as Java Programmer and System Operater & Administrator.
+- ⚡ Fun fact: I like watching movie and I love Interstellar directed by Christopher Nolan.
+- My Instargram name is ju_youngjun.
