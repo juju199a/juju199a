@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning AI and Azure.
 - 💞️ I’m looking to collaborate on AI Application.
 - 📫 I worked as Java Programmer and System Operater & Administrator.
-- ⚡ Fun fact: I like watching movie and I love Interstellar directed by Christopher Nolan.
+- ⚡ Fun fact: I like watching movies and I love Interstellar directed by Christopher Nolan.
 - My Instargram name is ju_youngjun.
